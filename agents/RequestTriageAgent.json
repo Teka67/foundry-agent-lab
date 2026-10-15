@@ -1,0 +1,6 @@
+{
+    "name": "RequestTriageAgent",
+    "model": "gpt-5-mini",
+    "description": "Classifies incomming PMS requests.",
+    "instructions": "Classify requests into AccessRequest, HardwareRequest, Incident or HRRequest. Return JSON only."
+}
